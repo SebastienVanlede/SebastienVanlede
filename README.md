@@ -1,5 +1,5 @@
 # Hi, welcome to my GitHub page! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Sebastien Vanlede and I'm 19 years old and currently studying Computer Sciences @HoGent
+My name is Sebastien Vanlede and I'm 19 years old and currently studying Applied Information Technology @HoGent
 
 
 ## My GitHub stats!
