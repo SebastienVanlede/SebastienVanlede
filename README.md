@@ -10,7 +10,8 @@ My name is Sebastien Vanlede and I'm 20 years old and currently studying Applied
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SebastienVanlede&repo=OO-Software-Development-I)](https://github.com/SebastienVanlede/OO-Software-Development-I)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SebastienVanlede&repo=OO-Software-Development-II)](https://github.com/SebastienVanlede/OO-Software-Development-II)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SebastienVanlede&repo=Advanced-Software-Development-I)](https://github.com/SebastienVanlede/Advanced-Software-Development-I)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SebastienVanlede&repo=CCSA-Python)]
+(https://github.com/SebastienVanlede/CCSA-Python)
 ## How to reach me:
 Mail: sebastien.vanlede@outlook.be | sebastien.vanlede@student.hogent.be
 
