@@ -9,7 +9,7 @@
 <p align="center">If you want to contact me, please feel free to reach out via any of the mediums below<p>
 
 <p align="center">
-  <a><img src="https://img.shields.io/badge/Sebastien%2390000-17213A?style=flat&logo=discord&logoColor=white" alt="Discord"></a>&nbsp;&nbsp;
+  <a><img src="https://img.shields.io/badge/Sebastien%239000-17213A?style=flat&logo=discord&logoColor=white" alt="Discord"></a>&nbsp;&nbsp;
   <a href="https://twitter.com/SebaVanlede" target="_blank"><img src="https://img.shields.io/badge/@SebaVanlede-%230077B5.svg?&style=flat&logo=twitter&logoColor=white&link=https://twitter.com/rtunazzz" alt="Twitter"></a>&nbsp;&nbsp;
   <a href="mailto:sebastien.vanlede@outlook.be" target="_blank"><img src="https://img.shields.io/badge/-sebastien.vanlede@outlook.be-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sebastien.vanlede@outlook.be" alt="Gmail"></a>
 </p>
