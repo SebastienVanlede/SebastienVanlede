@@ -6,8 +6,8 @@ Mobile & Enterprise Developer
 
 Currently Mobile & Enterprise Development student @HoGent.
 
-* 🌍  I'm based in Ghent
-* 🖥️  See my portfolio at [MyPortfolio](http://sebastienvanlede.be)
+* 🌍  I'm based in Ghent, Belgium
+* 🖥️  See my portfolio at [sebastienvanlede.be](http://sebastienvanlede.be)
 * ✉️  You can contact me at [sebastienvanlede@outlook.be](mailto:sebastienvanlede@outlook.be)
 
 <a href="https://www.twitter.com/SebaVanlede" target="_blank" rel="noreferrer"><img
